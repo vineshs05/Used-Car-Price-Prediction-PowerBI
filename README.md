@@ -66,8 +66,21 @@ Screenshots/
 
 ## 📷 Dashboard Preview
 
-*Dashboard screenshots are available in the `Screenshots` folder.*
+### Executive Dashboard
 
+![Executive Dashboard](Screenshots/page1.png)
+
+---
+
+### Market Analysis Dashboard
+
+![Market Analysis](Screenshots/page2.png)
+
+---
+
+### Prediction Dashboard
+
+![Prediction Dashboard](Screenshots/page3.png)
 ---
 
 ## 👤 Author
